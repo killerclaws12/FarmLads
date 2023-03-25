@@ -1,2 +1,1 @@
-# FarmLads
-A advanced 2D farm game, made in Unity Game Engine. (Single Player // Inspired by Stardew Valley)
+Will update this README file when game is released and when all code is updated in the github.
